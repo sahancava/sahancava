@@ -2,6 +2,12 @@
 
 Hello, this is Şahan. I am a software developer based in İstanbul. Currently working as a senior deployment engineer but besides my professional career, I am really into blockchain development. Thus, I've been to lead smart contract developer for various projects, which I can provide if asked.
 
+- 🔭 I’m currently working as a Senior Deployment Engineer for Afiniti
+- 🌱 I'm currently learning whatever I face that'd attact me
+- 🤔 I'm trying to support some blockchain projects with translating their README's into Turkish
+- 📫 You can react me out via my LinkedIn
+
+
 <!--
 **sahancava/sahancava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
