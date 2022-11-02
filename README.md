@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Hello, this is Şahan. I am a software developer based in İstanbul. Currently working as a senior deployment engineer but besides my professional career, I am really into blockchain development. Thus, I've been to lead smart contract developer for various projects, which I can provide if asked.
+
 <!--
 **sahancava/sahancava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
