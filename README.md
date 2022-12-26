@@ -5,7 +5,7 @@ Hello, this is Şahan. I am a software developer based in İstanbul. Currently w
 - 🔭 I’m currently working as a Senior Deployment Engineer for Afiniti
 - 🌱 I'm currently learning whatever I face that'd attact me
 - 🤔 I'm trying to support some blockchain projects with translating their README's into Turkish
-- 📫 You can react me out via my [LinkedIn](https://www.linkedin.com/in/sahan-cava)
+- 📫 You can reach me out via my [LinkedIn](https://www.linkedin.com/in/sahan-cava)
 
 - [Shareholder Accessor](https://github.com/sahancava/shareholder_accessor)
 - [Bridge Ecosystem](https://github.com/sahancava/Bridge-Ecosystem)
