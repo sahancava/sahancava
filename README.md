@@ -7,6 +7,9 @@ Hello, this is Şahan. I am a software developer based in İstanbul. Currently w
 - 🤔 I'm trying to support some blockchain projects with translating their README's into Turkish
 - 📫 You can react me out via my [LinkedIn](https://www.linkedin.com/in/sahan-cava)
 
+- [Shareholder Accessor](https://github.com/sahancava/shareholder_accessor)
+- [Bridge Ecosystem](https://github.com/sahancava/Bridge-Ecosystem)
+- [Locker](https://github.com/sahancava/Locker)
 
 <!--
 **sahancava/sahancava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
