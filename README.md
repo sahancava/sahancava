@@ -1,5 +1,7 @@
 # 💫 About Me:
-- 🔭 I’m currently working as a Senior Deployment Engineer for Afiniti<br>- 🌱 I'm currently learning whatever I face that'd attact me<br>- 🤔 I'm trying to support some blockchain projects with translating their README's into Turkish<br>- 📫 You can reach me out via my [LinkedIn](https://www.linkedin.com/in/sahan-cava)<br><br>- [Shareholder Accessor](https://github.com/sahancava/shareholder_accessor)<br>- [Bridge Ecosystem](https://github.com/sahancava/Bridge-Ecosystem)<br>- [Locker](https://github.com/sahancava/Locker)
+- - 🔭 I’m currently working as a Senior Deployment Engineer for Afiniti
+- <br>
+- - 🌱 I'm currently learning whatever I face that'd attact me<br>- 🤔 I'm trying to support some blockchain projects with translating their README's into Turkish<br>- 📫 You can reach me out via my [LinkedIn](https://www.linkedin.com/in/sahan-cava)<br><br>- [Shareholder Accessor](https://github.com/sahancava/shareholder_accessor)<br>- [Bridge Ecosystem](https://github.com/sahancava/Bridge-Ecosystem)<br>- [Locker](https://github.com/sahancava/Locker)
 
 
 ## 🌐 Socials:
