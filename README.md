@@ -4,6 +4,8 @@
 🤔 I'm trying to support some blockchain projects with translating their README's into Turkish<br>
 📫 You can reach me out via my [LinkedIn](https://www.linkedin.com/in/sahan-cava)
 
+🌐 Besides my daily work, I mostly study new technologies such as Blockchain - Smart Contract development. I do have couple of smart contract and web3 integration with React development on production at the moment which can be seen below:
+
 <br>- [Shareholder Accessor](https://github.com/sahancava/shareholder_accessor)<br>- [Bridge Ecosystem](https://github.com/sahancava/Bridge-Ecosystem)<br>- [Locker](https://github.com/sahancava/Locker)
 
 
