@@ -6,16 +6,6 @@
 
 🌐 Besides my daily work, I enjoy building software that connects systems, automates repetitive processes, and solves real operational problems. My background includes enterprise integrations, API development, deployment automation, monitoring, and production support. I also build blockchain, smart contract, and Web3-related side projects with React, Node.js, Solidity, and Python.
 
-Some of my production and side projects can be seen below:
-
-<br>- 📱 🍏 [CoverLetterAI](https://github.com/sahancava/CoverLetterAI)
-<br>- [CryptoTop10](https://github.com/sahancava/CryptoTop10)
-<br>- [Telegram Bots](https://github.com/sahancava/tg_bots)
-<br>- [Meeting Organizer](https://github.com/sahancava/MeetingOrganizer)
-<br>- [Bridge Ecosystem](https://github.com/sahancava/Bridge-Ecosystem)
-<br>- [Locker](https://github.com/sahancava/Locker)
-<br>- [SolidityUsageExamples](https://github.com/sahancava/SolidityUsageExamples)
-
 ## 🤝 Open Source & Community Contributions:
 I contribute to open-source and blockchain-related projects through:
 - bug fixes and pull requests
