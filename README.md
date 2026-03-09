@@ -16,6 +16,7 @@ I contribute to open-source and blockchain-related projects through:
 Selected example:
 - [openclaw/openclaw - fix(config): serialize async config writes to prevent data loss on startup (#40464)](https://github.com/openclaw/openclaw/pull/40464)
 - [openclaw/openclaw - fix: Disable strict mode tools for non-native openai-completions compatible APIs (#41457)](https://github.com/openclaw/openclaw/pull/41457)
+- [ConsenSysDiligence/smart-contract-best-practices - Adding Turkish Translation (#305)](https://github.com/ConsenSysDiligence/smart-contract-best-practices/pull/305)
 
 More contributions can be found on my GitHub profile and repositories.
 
