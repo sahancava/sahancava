@@ -18,6 +18,7 @@ Selected example:
 - [openclaw/openclaw - fix: Disable strict mode tools for non-native openai-completions compatible APIs (#41457)](https://github.com/openclaw/openclaw/pull/41457)
 - [openclaw/openclaw - Cron: fix manual isolated run deadlock (#41532)](https://github.com/openclaw/openclaw/pull/41532)
 - [ConsenSysDiligence/smart-contract-best-practices - Adding Turkish Translation (#305)](https://github.com/ConsenSysDiligence/smart-contract-best-practices/pull/305)
+- [OpenZeppelin/ethernaut - Typo fix (#426)](https://github.com/OpenZeppelin/ethernaut/pull/426)
 
 More contributions can be found on my GitHub profile and repositories.
 
